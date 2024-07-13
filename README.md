@@ -4,13 +4,13 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Deliverables:
 
-A few resources to get you started if this is your first Flutter project:
+#### A brief explanation of the design choices made and any challenges faced during development:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+##### What Inspired My Design Choices
+`Most of the design choices are made from my experience from building different type of projects, including likes of ecommerce project have done in the past.`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##### Challenges Faced
+`Had challenges deciding on colors`
+`Had challenges deciding on different sizes`
